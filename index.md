@@ -66,7 +66,7 @@
                     <ul>
                         <li>
                             本站最新地址
-                            <a href="https://tiantianshe.org" target="_blank">最新地址</a>
+                            <a href="https://973dy.com" target="_blank">最新地址</a>
                         </li>
                         <li>
                              本站备用地址
