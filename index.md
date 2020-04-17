@@ -65,11 +65,11 @@
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                            色花堂最新地址
+                            本站最新地址
                             <a href="https://tiantianshe.org" target="_blank">最新地址</a>
                         </li>
                         <li>
-                             色花堂备用地址
+                             本站备用地址
                             <a href="https://973dy.com" target="_blank">备用地址</a>
                             <a href="https://bkfl.net" target="_blank">备用地址</a>
 	
@@ -77,10 +77,7 @@
                        
 
                     </ul>
-                    <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
-                       sehua99@gmail.com<br />
-		       sehua66@gmail.com<br />
-                        会自动回复最新地址！</p>
+
                 </div>
             </div>
         </div>
