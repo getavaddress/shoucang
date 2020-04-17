@@ -77,7 +77,9 @@
                        
 
                     </ul>
-
+                    <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
+                       kellwernad56434sh@gmail.com<br />
+                        会自动回复最新地址！</p>
                 </div>
             </div>
         </div>
