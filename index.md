@@ -65,12 +65,13 @@
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                            本站最新视频一区
+                            本站最新视频区
                             <a href="https://bkfl.net" target="_blank">视频一区</a>
+				<a href="https://973dy.com" target="_blank">视频二区</a>
                         </li>
                         <li>
-                             本站最新视频二区
-                            <a href="https://973dy.com" target="_blank">视频一区</a>
+                             本站最新小说区
+                            <a href="https://waizhuan.cc" target="_blank">小说区</a>
                             
 	
                         </li>
