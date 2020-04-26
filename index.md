@@ -76,7 +76,7 @@
                     <ul>
                         <li>
                             天天射最新视频区
-                            <a href="https://bkfl.net" target="_blank">视频一区</a>
+                            <a href="http://tiantianshe1.top" target="_blank">视频一区</a>
 				<a href="https://973dy.com" target="_blank">视频二区</a>
                         </li>
                         <li>
