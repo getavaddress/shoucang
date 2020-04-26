@@ -69,7 +69,7 @@
 
     <body>
         <div class="main">
- <h1>本站最新发布地址</h1>
+ <h1>老司机收藏本页永不失联</h1>
             <div class="content">
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页</h2>
