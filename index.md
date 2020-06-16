@@ -76,8 +76,8 @@
                     <ul>
                         <li>
                             天天射最新视频区
-                            <a href="https://tiantianshe7.top" target="_blank">视频一区</a>
-				<a href="https://973dy.com" target="_blank">视频二区</a>
+                            <a href="https://973dy.com" target="_blank">最新地址</a>
+				<a href="https://tiantianshe7.top/" target="_blank">备用地址</a>
                         </li>
                         <li>
                              天天射小说区
