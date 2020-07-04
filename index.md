@@ -77,7 +77,7 @@
                         <li>
                             天天射最新视频区
                             <a href="https://tiantianshe.cc/" target="_blank">最新地址</a>
-				<a href="https://973dy.com/" target="_blank">备用地址</a>
+				<a href="https://bkfl.net/" target="_blank">备用地址</a>
                         </li>
                         <li>
                              天天射小说区
