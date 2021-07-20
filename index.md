@@ -75,15 +75,24 @@
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                            天天射最新视频区
-                            <a href="https://936dy.com/" target="_blank">最新地址</a>
-				<a href="https://741dy.com/" target="_blank">备用地址</a>
+                             不正经视频区
+                            <a href="https://waizhuan.cc" target="_blank">不正经视频</a>
+                        </li>			    			    			    
+                        <li>
+                            电影区
+                            <a href="https://936dy.com/" target="_blank">电影区</a>
                         </li>
                         <li>
-                             天天射小说区
-                            <a href="https://waizhuan.cc" target="_blank">小说区</a>
-                            
-	
+                             动漫区
+                            <a href="https://waizhuan.cc" target="_blank">动漫区</a>
+                        </li>
+                        <li>
+                             美图区
+                            <a href="https://waizhuan.cc" target="_blank">美图区</a>
+                        </li>	
+                        <li>
+                             黄色小说区
+                            <a href="https://waizhuan2.cc" target="_blank">黄色小说区</a>
                         </li>
                        
 
