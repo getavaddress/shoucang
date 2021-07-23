@@ -76,7 +76,7 @@
                     <ul>
                         <li>
                              黄色视频区
-                            <a href="https://waizhuan.cc" target="_blank">不正经视频</a>
+                            <a href="https://624dy.com/" target="_blank">黄色视频区</a>
                         </li>			    			    			    
                         <li>
                             电影区
@@ -84,11 +84,11 @@
                         </li>
                         <li>
                              动漫区
-                            <a href="https://waizhuan.cc" target="_blank">动漫区</a>
+                            <a href="https://624dy.com/" target="_blank">动漫区</a>
                         </li>
                         <li>
                              美图区
-                            <a href="https://waizhuan.cc" target="_blank">美图区</a>
+                            <a href="https://624dy.com/" target="_blank">美图区</a>
                         </li>	
                         <li>
                              黄色小说区
@@ -98,7 +98,7 @@
 
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
-                       tiantiansheav@gmail.com<br />
+                      kellwernad56434sh@gmail.com<br />
                         会自动回复最新地址！</p>
                 </div>
             </div>
