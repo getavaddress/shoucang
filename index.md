@@ -75,7 +75,7 @@
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                             不正经视频区
+                             黄色视频区
                             <a href="https://waizhuan.cc" target="_blank">不正经视频</a>
                         </li>			    			    			    
                         <li>
