@@ -80,7 +80,7 @@
                         </li>			    			    			    
                         <li>
                             电影区
-                            <a href="https://936dy.com/" target="_blank">电影区</a>
+                            <a href="https://624dy.com/" target="_blank">电影区</a>
                         </li>
                         <li>
                              动漫区
