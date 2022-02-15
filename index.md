@@ -78,18 +78,8 @@
                              黄色视频区
                             <a href="https://624dy.com/" target="_blank">黄色视频区</a>
                         </li>			    			    			    
-                        <li>
-                            电影区
-                            <a href="https://624dy.com/" target="_blank">电影区</a>
-                        </li>
-                        <li>
-                             动漫区
-                            <a href="https://624dy.com/" target="_blank">动漫区</a>
-                        </li>
-                        <li>
-                             美图区
-                            <a href="https://624dy.com/" target="_blank">美图区</a>
-                        </li>	
+
+
                         <li>
                              黄色小说区
                             <a href="https://waizhuan2.cc" target="_blank">黄色小说区</a>
