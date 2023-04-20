@@ -1,7 +1,7 @@
  <html>
 	<head>
 		<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-146792497-3"></script>
+
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -75,8 +75,8 @@
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
                         <li>
-                             黄色视频区
-                            <a href="https://624dy.com/" target="_blank">黄色视频区</a>
+                             乐射AV最新可用网址
+                            <a href="https://leshe.xyz/" target="_blank">乐射AV最新可用网址</a>
                         </li>			    			    			    
 
 
