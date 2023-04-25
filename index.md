@@ -74,16 +74,21 @@
                 <div class="content-top">
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
+
+			 <li>
+                             百万AV入口最新可用网址
+                            <a href="https://aprk.top/" target="_blank">百万AV入口</a>
+                        </li>
                         <li>
                              乐射AV最新可用网址
                             <a href="https://leshe.xyz/" target="_blank">乐射AV最新可用网址</a>
                         </li>			    			    			    
 
 
-                        <li>
+<!--                         <li>
                              黄色小说区
                             <a href="https://waizhuan2.cc" target="_blank">黄色小说区</a>
-                        </li>
+                        </li> -->
                        
 
                     </ul>
