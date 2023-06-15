@@ -69,7 +69,7 @@
 
 			 <li>
                              百万AV入口最新可用网址
-                            <a href="https://aprk.top/" target="_blank">百万AV入口</a>
+                            <a href="https://aprk1.top/" target="_blank">百万AV入口</a>
                         </li>
                         <li>
                              乐射AV最新可用网址
