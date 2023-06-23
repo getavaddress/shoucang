@@ -77,15 +77,15 @@
                         </li>			    			    			    
 
 
-<!--                         <li>
-                             黄色小说区
-                            <a href="https://waizhuan2.cc" target="_blank">黄色小说区</a>
-                        </li> -->
+                        <li>
+                             情色小说
+                            <a href="https://bisege1.vip/" target="_blank">笔色阁</a>
+                        </li> 
                        
 
                     </ul>
                     <p>如果以上地址均无法打开，欢迎发送邮件告知： <br />
-                      kellwernad56434sh@gmail.com<br />
+                      52bisege@gmail.com<br />
                         会自动回复最新地址！</p>
                 </div>
             </div>
