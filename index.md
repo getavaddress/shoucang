@@ -67,19 +67,11 @@
                     <h2>请大家 Ctrl+D 收藏本页</h2>
                     <ul>
 
-			 <li>
-                             百万AV入口最新可用网址
-                            <a href="https://aprk1.top/" target="_blank">百万AV入口</a>
-                        </li>
-                        <li>
-                             乐射AV最新可用网址
-                            <a href="https://leshe.xyz/" target="_blank">乐射AV最新可用网址</a>
-                        </li>			    			    			    
-
 
                         <li>
                              情色小说
-                            <a href="https://bisege1.vip/" target="_blank">笔色阁</a>
+                            <a href="https://bisege1.com/" target="_blank">笔色阁</a>
+			    <a href="https://bishege2.com/" target="_blank">笔射阁</a>
                         </li> 
                        
 
