@@ -1,7 +1,5 @@
  <html>
 	<head>
-	<script type="text/javascript" src="//js.users.51.la/21638999.js"></script>
-
         <meta charset="UTF-8" />
         <title>请大家收藏本页</title>
         <style>
